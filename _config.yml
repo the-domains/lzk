@@ -1,7 +1,7 @@
 name: lzk
 favicon: null
-layout_spectrum: 0.2993699775543064
-typography_spectrum: 0.646785537013784
+layout_spectrum: 0.25735
+typography_spectrum: 0.61678
 title: lzk arquitetura
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#ffffff'
+    - '#969696'
+    - '#636363'
+    - '#e30013'
   brandStrength: 0.42284745490178466
   lightness: 0.9164966610260308
   saturation: 0.4066418583970517
