@@ -1,0 +1,28 @@
+name: lzk
+favicon: null
+layout_spectrum: 0.2993699775543064
+typography_spectrum: 0.646785537013784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.42284745490178466
+  lightness: 0.9164966610260308
+  saturation: 0.4066418583970517
+  rhythmicContrast: 0.8175502181984484
+purpose: []
